@@ -15,3 +15,10 @@ side of it.
 
 ## Making your changes
 
+Every time you make a change you want
+to in the project (like adding a new
+paragraph, adding images or fixing some
+grammar) you need to stage you file 
+then you have made all the changes you 
+want then push them to the origin 
+which is were everything is stored 
