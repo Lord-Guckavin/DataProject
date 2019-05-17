@@ -5,3 +5,6 @@
 ** Fitness of sport players vs non-sport players
 *** Thing
 ** Traffic of maccas roundabout
+#+BEGIN_SCR python
+print("Yeet")
+#+END_SCR
