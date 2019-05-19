@@ -1,6 +1,10 @@
 Why business in Mount Gambier is failing
 ========================================
 
+Business in Mount Gambier are often subject to closure
+this can be seen when you walk down the main street as
+you pass closed shop after closed shop.
+
 collecting data
 ---------------
 
@@ -11,7 +15,7 @@ collecting data
 Why are there so many crashes at pick avi lights
 ================================================
 
-MC\'s ideas
+MC's ideas
 ===========
 
 grades based on breakfast & school attendance

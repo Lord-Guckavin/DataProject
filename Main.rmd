@@ -1,9 +1,9 @@
 ---
 title: "Temp Name"
 author:
- - "Braydon Rantall"
- - "Jayden Norman"
- - "Everton Ashcroft"
+ - ""
+ - ""
+ - ""
 ---
 
 # Todo list
